@@ -1,0 +1,2 @@
+# Stroke
+Proyecto DS
